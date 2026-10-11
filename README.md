@@ -6,45 +6,35 @@ QuickAI is an all-in-one AI-powered platform that simplifies content creation by
 
 Designed with a user-friendly interface and scalable architecture, QuickAI integrates AI services to deliver an efficient and seamless content creation experience.
 
-🚀 Key Features
+## Key Features
 
-✍️ AI Article Generation
+- **AI Article Generation**
+  - Generate informative, engaging, and SEO-friendly articles on a wide range of topics.
+  - Select from short (500–800 words), medium (800–1,200 words), and long (1,200+ words) formats.
 
-Generate informative, engaging, and SEO-friendly articles on a wide range of topics.
+- **Blog Title Generator**
+  - Generate creative and attention-grabbing blog titles based on user-provided keywords and content categories.
 
-Select from short (500–800 words), medium (800–1,200 words), and long (1,200+ words) formats.
+- **AI Image Generation**
+  - Transform text prompts into visually appealing images in multiple styles.
+  - Generate photorealistic imagery.
+  - Create Studio Ghibli-inspired illustrations.
+  - Generate anime-style artwork.
+  - Create 3D-style renders.
 
-💡 Blog Title Generator
+- **Image Editing Tools**
+  - Remove image backgrounds for cleaner, more professional visuals.
+  - Eliminate unwanted objects from images using AI-powered editing capabilities.
 
-Generate creative and attention-grabbing blog titles based on user-provided keywords and content categories.
+- **AI Resume Analyzer**
+  - Upload resumes for AI-assisted feedback and analysis.
+  - Receive suggestions to improve resume content, presentation, and overall quality.
 
-🎨 AI Image Generation
+- **User Dashboard**
+  - Track and manage all generated content.
+  - Manage subscription plans.
+  - Access AI tools through a clean, intuitive interface.
 
-Transform text prompts into visually appealing images in multiple styles, including:
-
-Photorealistic imagery
-
-Studio Ghibli-inspired illustrations
-
-Anime artwork
-
-3D-style renders
-
-🖼️ Image Editing Tools
-
-Remove image backgrounds for cleaner, more professional visuals.
-
-Eliminate unwanted objects from images using AI-powered editing capabilities.
-
-📄 AI Resume Analyzer
-
-Upload a resume for AI-assisted feedback.
-
-Receive suggestions to improve content, presentation, and overall resume quality.
-
-* **User Dashboard**
-
-  * Track all your creations, manage plans, and access tools from a clean, intuitive interface.
 
 ---
 
