@@ -1,6 +1,6 @@
 # QuickAI
 
-**Live Demo**: [https://quickai-client.vercel.app](https://quickai-client.vercel.app)
+<!-- **Live Demo**: [https://quickai-client.vercel.app](https://quickai-client.vercel.app) -->
 
 QuickAI is a modern, AI-powered content creation platform designed to streamline writing, design, and productivity workflows. It provides a collection of premium AI tools that enable users to generate high-quality articles, creative images, and professional content—all from a single, intuitive dashboard.
 
@@ -51,14 +51,14 @@ Built with scalability and performance in mind, QuickAI leverages cutting-edge A
 * **Backend**: Node.js, Express.js (API)
 * **Database**: Postgres(NEON)
 * **AI Integration**: OpenAI APIs, Image Processing APIs
-* **Hosting**: Vercel
+<!-- * **Hosting**: Vercel -->
 
 ---
 
 
 
 
----
+<!-- ---
 
 ## 📦 Installation (For Development)
 
@@ -78,20 +78,4 @@ npm run dev
 ```
 
 ---
-
-## 📜 License
-
-© 2025 QuickAI. All rights reserved.
-
----
-
-## 🔗 Links
-
-* 🌐 [Live Demo](https://quickai-client.vercel.app)
-* 🐙 [GitHub Repository](https://github.com/sumu9897/Quick-AI)
-* 📧 Contact: [mohammad.sumon9897@gmail.com](mohammad.sumon9897@gmail.com)
-
----
-
-## 👨‍💻 Author
-* Mohammad Sumon
+ -->
